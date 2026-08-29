@@ -37,6 +37,8 @@ Provide a button to go back to the BMI form to calculate again.
 Add styling using CSS or Tailwind.
 ## PROGRAM:
 ```
+bmi.jsx
+
 import React, { useState } from "react";
 import {BrowserRouter,Routes,Route,Link,useNavigate,useLocation} from "react-router-dom";
 
